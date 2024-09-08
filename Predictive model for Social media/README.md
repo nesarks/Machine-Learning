@@ -193,7 +193,3 @@ The dataset is sourced from [Kaggle](https://www.kaggle.com/datasets/emirhanai/s
 
 - **Dataset**: Provided by [Kaggle](https://www.kaggle.com/datasets/emirhanai/social-media-usage-and-emotional-well-being).
 - **Inspiration**: Research on the impact of social media on mental health and well-being.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.

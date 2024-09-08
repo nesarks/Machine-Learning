@@ -48,7 +48,7 @@ The dataset is sourced from [Kaggle](https://www.kaggle.com/datasets/emirhanai/s
 2. **Navigate to the project directory**:
 
    ```bash
-   cd social-media-wellbeing
+   cd Predictive-model-for-social-media-wellbeing
    ```
 
 3. **Install the required packages**:
